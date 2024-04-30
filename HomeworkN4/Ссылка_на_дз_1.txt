@@ -1,0 +1,4 @@
+https://github.com/Optimal-Control-16-745/lecture-notebooks-2023/blob/main/Lecture%207/lqr-riccati.ipynb
+https://github.com/Optimal-Control-16-745/lecture-notebooks-2023/blob/main/Lecture%208/Lecture%208.pdf
+https://github.com/pk2368/optlearningcontrol/blob/main/Fall2022/Project1%20-%20Optimal%20Control/iterative%20LQR%20to%20control%20a%20drone.ipynb
+Реализовать LQR с помощью ПМП https://github.com/Optimal-Control-16-745/lecture-notebooks-2023/blob/main/Lecture%207/Lecture%207.pdf
